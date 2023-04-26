@@ -1,0 +1,58 @@
+[
+    {
+        "brand": "Audi",
+        "name": "A8",
+        "daily_price": 150,
+        "image_url": "https://www.nba.fr/media/spvo_image_1648576_33.jpg",
+        "agency_name": "Gare de Lyon"
+      },
+      {
+        "brand": "Audi",
+        "name": "RS5",
+        "daily_price": 120,
+        "image_url": "https://www.largus.fr/images/images/audi-rs5-2020-01.jpg",
+        "agency_name": "Gare de Lille Europe"
+      },
+      {
+        "brand": "Audi",
+        "name": "A3",
+        "daily_price": 70,
+        "image_url": "https://www.turbo.fr/sites/default/files/slideshow/slides/2020-03/5e5e4738d942c.jpg",
+        "agency_name": "Gare de Montpellier Saint-Roch"
+      },
+      {
+        "brand": "BMW",
+        "name": "X7",
+        "daily_price": 180,
+        "image_url": "https://www.largus.fr/images/images/bmw-x7-restylee-route.jpg",
+        "agency_name": "Gare de Strasbourg"
+      },
+      {
+        "brand": "BMW",
+        "name": "M5",
+        "daily_price": 140,
+        "image_url": "https://www.automobile-magazine.fr/asset/cms/173768/config/122538/p90390718.jpeg",
+        "agency_name": "Gare de Nice Ville"
+      },
+      {
+        "brand": "BMW",
+        "name": "118i",
+        "daily_price": 80,
+        "image_url": "https://images.caradisiac.com/images/1/1/3/3/181133/S1-essai-bmw-118i-618776.jpg",
+        "agency_name": "Gare de Toulouse Matabiau"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "daily_price": 160,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/640px-Mercedes-Benz_W223_IMG_6663.jpg",
+        "agency_name": "Gare de Bordeaux Saint-Jean"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "name": "AMG GT",
+        "daily_price": 450,
+        "image_url": "https://auto.cdn-rivamedia.com/photos/annoncecli/big/mercedes-amg-gt-2-4-0-v8-585-gt-r-speedshift-7-128963194.jpg",
+        "agency_name": "Gare de Lyon Perrache"
+      }
+]

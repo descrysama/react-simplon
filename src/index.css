@@ -12,6 +12,11 @@ body {
 }
 
 .p-button {
-  background-color: #F8AD9D !important;
   border: 1px solid #F08080 !important;
+  background: rgb(244,151,142);
+  background: linear-gradient(95deg, rgba(244,151,142,1) 0%, rgba(240,128,128,1) 62%, rgba(244,151,142,1) 100%) !important;
+}
+
+.p-card-body {
+  padding: 3px !important;
 }
