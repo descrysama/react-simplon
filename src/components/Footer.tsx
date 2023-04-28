@@ -6,7 +6,7 @@ const Footer = () => {
 
 
   return (
-    location.pathname != '/' ? null :
+    location.pathname == '/login' || location.pathname == '/register' ? null :
     <div className='w-[100%] rounded-t-[50px] bg-black md:h-[130px] mt-[150px] flex items-center justify-center'>
         <div className="w-[80%] flex items-center md:justify-between justify-center text-center flex-col md:flex-row p-2">
             <img src="logo_white.png" alt="" style={{width: "100px"}}/>

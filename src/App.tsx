@@ -4,6 +4,8 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Login from "./view/Login";
 import Register from "./view/Register";
+import Faq from "./view/faq";
+import Search from "./view/searchPage";
         
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
         <Route path="/" element={<Home/>}></Route>
         <Route path="/login" element={<Login/>}></Route>
         <Route path="/register" element={<Register/>}></Route>
+        <Route path="/faq" element={<Faq/>}></Route>
+        <Route path="/search" element={<Search/>}></Route>
       </Routes>
       <Footer />
     </BrowserRouter>
